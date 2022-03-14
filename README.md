@@ -1,4 +1,4 @@
-# UPR Data Analayis and Validation
+# UPR Data Analysis and Validation
 
 
 | # | Notebook link | Description | Author(s)  |
